@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-28 05:44:27 --> 404 Page Not Found: 
+ERROR - 2021-06-28 08:33:54 --> Severity: error --> Exception: syntax error, unexpected '?>' /home/u637289510/domains/jackstore.co/public_html/application/views/usercontrol/includes/footer.php 15
+ERROR - 2021-06-28 11:02:46 --> 404 Page Not Found: 
+ERROR - 2021-06-28 11:02:46 --> 404 Page Not Found: 
+ERROR - 2021-06-28 11:02:46 --> 404 Page Not Found: 
+ERROR - 2021-06-28 12:33:36 --> 404 Page Not Found: 
+ERROR - 2021-06-28 12:33:36 --> 404 Page Not Found: 
+ERROR - 2021-06-28 12:33:36 --> 404 Page Not Found: 
+ERROR - 2021-06-28 13:44:52 --> 404 Page Not Found: 
+ERROR - 2021-06-28 14:10:55 --> 404 Page Not Found: 
+ERROR - 2021-06-28 14:10:55 --> 404 Page Not Found: 
+ERROR - 2021-06-28 14:10:55 --> 404 Page Not Found: 
+ERROR - 2021-06-28 15:36:50 --> 404 Page Not Found: 
+ERROR - 2021-06-28 15:54:40 --> 404 Page Not Found: 
+ERROR - 2021-06-28 15:54:40 --> 404 Page Not Found: 
+ERROR - 2021-06-28 15:54:40 --> 404 Page Not Found: 
+ERROR - 2021-06-28 17:33:18 --> 404 Page Not Found: 
+ERROR - 2021-06-28 17:33:18 --> 404 Page Not Found: 
+ERROR - 2021-06-28 17:33:23 --> 404 Page Not Found: 
+ERROR - 2021-06-28 19:14:01 --> 404 Page Not Found: 
+ERROR - 2021-06-28 19:14:01 --> 404 Page Not Found: 
+ERROR - 2021-06-28 19:14:01 --> 404 Page Not Found: 
+ERROR - 2021-06-28 21:00:31 --> 404 Page Not Found: 
+ERROR - 2021-06-28 21:00:31 --> 404 Page Not Found: 
+ERROR - 2021-06-28 21:00:31 --> 404 Page Not Found: 
+ERROR - 2021-06-28 21:12:38 --> 404 Page Not Found: 
+ERROR - 2021-06-28 22:20:33 --> 404 Page Not Found: 
+ERROR - 2021-06-28 22:20:33 --> 404 Page Not Found: 
+ERROR - 2021-06-28 22:20:33 --> 404 Page Not Found: 
+ERROR - 2021-06-28 23:56:19 --> 404 Page Not Found: 
+ERROR - 2021-06-28 23:56:19 --> 404 Page Not Found: 
+ERROR - 2021-06-28 23:56:24 --> 404 Page Not Found: 

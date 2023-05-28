@@ -1,0 +1,54 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-12 00:40:55 --> 404 Page Not Found: 
+ERROR - 2021-07-12 00:40:55 --> 404 Page Not Found: 
+ERROR - 2021-07-12 00:40:55 --> 404 Page Not Found: 
+ERROR - 2021-07-12 02:22:48 --> 404 Page Not Found: 
+ERROR - 2021-07-12 02:22:48 --> 404 Page Not Found: 
+ERROR - 2021-07-12 02:22:48 --> 404 Page Not Found: 
+ERROR - 2021-07-12 10:31:35 --> Unable to save the image. Please make sure the image and file directory are writable.
+ERROR - 2021-07-12 10:31:43 --> Unable to save the image. Please make sure the image and file directory are writable.
+ERROR - 2021-07-12 04:10:53 --> 404 Page Not Found: 
+ERROR - 2021-07-12 04:10:53 --> 404 Page Not Found: 
+ERROR - 2021-07-12 04:10:53 --> 404 Page Not Found: 
+ERROR - 2021-07-12 13:32:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 - Invalid query: SELECT id, price FROM membership_plans WHERE id=
+ERROR - 2021-07-12 06:13:32 --> 404 Page Not Found: 
+ERROR - 2021-07-12 06:13:37 --> 404 Page Not Found: 
+ERROR - 2021-07-12 06:13:37 --> 404 Page Not Found: 
+ERROR - 2021-07-12 06:32:03 --> 404 Page Not Found: 
+ERROR - 2021-07-12 14:55:21 --> 404 Page Not Found: 
+ERROR - 2021-07-12 06:55:21 --> 404 Page Not Found: 
+ERROR - 2021-07-12 14:55:33 --> 404 Page Not Found: 
+ERROR - 2021-07-12 14:55:33 --> 404 Page Not Found: 
+ERROR - 2021-07-12 15:00:15 --> 404 Page Not Found: 
+ERROR - 2021-07-12 08:03:02 --> 404 Page Not Found: 
+ERROR - 2021-07-12 08:03:02 --> 404 Page Not Found: 
+ERROR - 2021-07-12 08:03:02 --> 404 Page Not Found: 
+ERROR - 2021-07-12 09:43:55 --> 404 Page Not Found: 
+ERROR - 2021-07-12 09:43:55 --> 404 Page Not Found: 
+ERROR - 2021-07-12 09:43:55 --> 404 Page Not Found: 
+ERROR - 2021-07-12 10:47:49 --> 404 Page Not Found: 
+ERROR - 2021-07-12 11:28:44 --> 404 Page Not Found: 
+ERROR - 2021-07-12 11:28:44 --> 404 Page Not Found: 
+ERROR - 2021-07-12 11:28:44 --> 404 Page Not Found: 
+ERROR - 2021-07-12 13:17:54 --> 404 Page Not Found: 
+ERROR - 2021-07-12 13:17:54 --> 404 Page Not Found: 
+ERROR - 2021-07-12 13:17:54 --> 404 Page Not Found: 
+ERROR - 2021-07-12 13:37:01 --> 404 Page Not Found: 
+ERROR - 2021-07-12 15:04:47 --> 404 Page Not Found: 
+ERROR - 2021-07-12 15:04:47 --> 404 Page Not Found: 
+ERROR - 2021-07-12 15:04:47 --> 404 Page Not Found: 
+ERROR - 2021-07-12 16:57:02 --> 404 Page Not Found: 
+ERROR - 2021-07-12 16:57:02 --> 404 Page Not Found: 
+ERROR - 2021-07-12 16:57:02 --> 404 Page Not Found: 
+ERROR - 2021-07-12 18:48:54 --> 404 Page Not Found: 
+ERROR - 2021-07-12 18:48:54 --> 404 Page Not Found: 
+ERROR - 2021-07-12 18:48:54 --> 404 Page Not Found: 
+ERROR - 2021-07-12 20:50:29 --> 404 Page Not Found: 
+ERROR - 2021-07-12 20:59:35 --> 404 Page Not Found: 
+ERROR - 2021-07-12 20:59:35 --> 404 Page Not Found: 
+ERROR - 2021-07-12 20:59:35 --> 404 Page Not Found: 
+ERROR - 2021-07-12 21:17:18 --> 404 Page Not Found: 
+ERROR - 2021-07-12 22:31:34 --> 404 Page Not Found: 
+ERROR - 2021-07-12 22:31:34 --> 404 Page Not Found: 
+ERROR - 2021-07-12 22:31:34 --> 404 Page Not Found: 
